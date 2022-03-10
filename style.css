@@ -1,4 +1,12 @@
+/*Foglio di stile CSS*/
+
 /*colore per tutti i titoli delle categorie*/
 .orange-title {
     color: rgb(255, 145, 0)
+}
+
+/*Modifica dimensione immagine*/
+.image-dimension{
+    height: 12%;
+    width: 12%;
 }
