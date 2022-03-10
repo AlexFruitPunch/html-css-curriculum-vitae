@@ -8,8 +8,11 @@
 
 /*Modifica dimensione immagine*/
 .image-dimension{
-    height: 12%;
-    width: 12%;
+    position: relative;
+    left: 800px;
+    top: 25px;
+    height: 10%;
+    width: 10%;
 }
 
 /*allineamento di tutto quello all'interno dell footer*/
@@ -42,4 +45,8 @@ footer {
 .pallino{
     text-align: center;
     font-size: 2.3em;
+}
+
+p {
+    text-align: left;
 }
