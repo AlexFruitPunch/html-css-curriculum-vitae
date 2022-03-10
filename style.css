@@ -14,4 +14,19 @@
 /*allineamento di tutto quello all'interno dell footer*/
 footer {
     text-align: center;
+    font-size: 0,5em;
+}
+
+/*Bordo arancione*/
+ .Orange-bord{
+    border-color: rgb(255, 157, 0);
+    border-bottom-style: solid;
+    border-width: medium;
+}
+
+/*Bordo arancione più fine*/
+.Orange-bord2{
+    border-color: rgb(255, 157, 0);
+    border-bottom-style: solid;
+    border-width: 2px;
 }
