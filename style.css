@@ -10,3 +10,8 @@
     height: 12%;
     width: 12%;
 }
+
+/*allineamento di tutto quello all'interno dell footer*/
+footer {
+    text-align: center;
+}
