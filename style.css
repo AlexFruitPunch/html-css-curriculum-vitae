@@ -3,16 +3,16 @@
 /*colore per tutti i titoli delle categorie*/
 .orange-title {
     color: rgb(255, 145, 0);
-    font-size: 30px;
+    font-size: 25px;
 }
 
 /*Modifica dimensione immagine*/
 .image-dimension{
-    position: relative;
-    left: 800px;
-    top: 15px;
-    height: 10%;
-    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%;
+    width: 25%;
 }
 
 /*allineamento di tutto quello all'interno dell footer*/
@@ -45,4 +45,10 @@ footer {
 .pallino{
     text-align: center;
     font-size: 2.3em;
+}
+
+/*margine cv*/
+.foglio-a-4{
+    margin-left: 500px;
+    margin-right: 500px;
 }
