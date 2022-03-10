@@ -2,7 +2,8 @@
 
 /*colore per tutti i titoli delle categorie*/
 .orange-title {
-    color: rgb(255, 145, 0)
+    color: rgb(255, 145, 0);
+    font-size: 30px;
 }
 
 /*Modifica dimensione immagine*/
